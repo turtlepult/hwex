@@ -1,3 +1,4 @@
+package sem2;
 import java.io.FileNotFoundException;
 
 public class semka3 {

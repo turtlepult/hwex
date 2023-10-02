@@ -1,3 +1,4 @@
+package sem2;
 public class semka2 {
     public static void main(String[] args) {
         try {

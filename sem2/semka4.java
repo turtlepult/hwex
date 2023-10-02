@@ -1,3 +1,4 @@
+package sem2;
 import java.util.Scanner;
 
 public class semka4 {
